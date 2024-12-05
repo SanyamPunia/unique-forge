@@ -1,6 +1,6 @@
 {
   "name": "unique-forge",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A flexible and powerful unique ID generator",
   "type": "module",
   "main": "dist/index.js",
